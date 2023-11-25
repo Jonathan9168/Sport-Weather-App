@@ -55,7 +55,7 @@
     "less": "^2.7.1",
     "less-loader": "^2.2.3",
     "mkdirp": "^0.5.1",
-    "mocha": "^3.0.0",
+    "mocha": "^10.2.0",
     "ncp": "^2.0.0",
     "offline-plugin": "^4.5.3",
     "phantomjs-prebuilt": "^2.1.12",
@@ -79,7 +79,7 @@
     "preact-router": "^2.0.0",
     "promise-polyfill": "^6.0.2",
     "proptypes": "^0.14.3",
-    "serve": "^2.0.0"
+    "serve": "^14.2.1"
   },
   "main": "webpack.config.babel.js",
   "directories": {
